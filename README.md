@@ -1,4 +1,4 @@
-# Obsidian Canvas File Thumbnails
+# Obsidian Canvas File Thumbnails (Non-Functional) In Development
 
 This is a sample plugin for Obsidian (https://obsidian.md).
 
