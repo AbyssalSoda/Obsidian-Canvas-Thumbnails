@@ -53,9 +53,9 @@ Quick starting guide for new plugin devs:
 - `npm i` or `yarn` to install dependencies.
 - `npm run dev` to start compilation in watch mode.
 
-## Manually installing the plugin
+## Important Notes & Limitations
 
-- Copy over `main.js`, `styles.css`, `manifest.json` to your vault `VaultFolder/.obsidian/plugins/your-plugin-id/`.
+- If a file lacks a native thumbnail no thumbnail will display in Obsidian Canvas, you must first open the project in Clip Studio or Blender in order to generate the thumbnail if your cache had been cleared or temp file since expired
 
 ## Improve code quality with eslint (optional)
 - [ESLint](https://eslint.org/) is a tool that analyzes your code to quickly find problems. You can run ESLint against your plugin to find common bugs and ways to improve your code. 
