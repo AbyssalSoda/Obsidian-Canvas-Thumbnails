@@ -1,11 +1,11 @@
-# Obsidian Canvas File Thumbnails (Non-Functional) In Development
+# Obsidian Canvas File Thumbnails (In Development)
 
 Like what I do? Check out my other creative endeavors here: https://abyssalsoda.carrd.co/
 
 This project uses Typescript to provide type checking and documentation.
 The repo depends on the latest plugin API (obsidian.d.ts) in Typescript Definition format, which contains TSDoc comments describing what it does.
 
-**Note:** Plugin is in early development, there is nothing here at the moment.
+**Note:** Plugin is in early development, currently only .clip files are supported and customization is limited.
 
 This sample plugin demonstrates some of the basic functionality the plugin API can do.
 - Adds a ribbon icon, which shows a Notice when clicked.
