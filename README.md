@@ -10,9 +10,8 @@ The repo depends on the latest plugin API (obsidian.d.ts) in Typescript Definiti
 This plugin aims to:
 - Add support for .blend files
 - Add support for .psd files
-- Add
 - Allow users to choose between file types to add to obsidian vault vs simple links
-- Allow users to choose their own thumbnail if they don't like the default ones provided by the files
+- Allow users to choose their own thumbnail if they don't like the default ones provided by the native files
 - Allow custom scale for viewing different file types .blend .clip .pdf .psd so forth
 
 ## First time Installing?
@@ -29,7 +28,7 @@ Quick starting guide for new plugin devs:
 - Enable plugin in settings window.
 - For updates to the Obsidian API run `npm update` in the command line under your repo folder.
 
-## Releasing new releases
+## Native Obsidian Behavior
 
 - Update your `manifest.json` with your new version number, such as `1.0.1`, and the minimum Obsidian version required for your latest release.
 - Update your `versions.json` file with `"new-plugin-version": "minimum-obsidian-version"` so older versions of Obsidian can download an older version of your plugin that's compatible.
@@ -40,7 +39,7 @@ Quick starting guide for new plugin devs:
 > You can simplify the version bump process by running `npm version patch`, `npm version minor` or `npm version major` after updating `minAppVersion` manually in `manifest.json`.
 > The command will bump version in `manifest.json` and `package.json`, and add the entry for the new version to `versions.json`
 
-## Adding your plugin to the community plugin list
+## Canvas Thumbnails Behavior
 
 - Check https://github.com/obsidianmd/obsidian-releases/blob/master/plugin-review.md
 - Publish an initial version.
