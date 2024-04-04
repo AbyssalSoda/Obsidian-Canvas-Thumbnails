@@ -7,14 +7,15 @@ The repo depends on the latest plugin API (obsidian.d.ts) in Typescript Definiti
 
 **Note:** Plugin is in early development, currently only .clip files are supported and customization is limited.
 
-This sample plugin demonstrates some of the basic functionality the plugin API can do.
-- Adds a ribbon icon, which shows a Notice when clicked.
-- Adds a command "Open Sample Modal" which opens a Modal.
-- Adds a plugin setting tab to the settings page.
-- Registers a global click event and output 'click' to the console.
-- Registers a global interval which logs 'setInterval' to the console.
+This plugin aims to:
+- Add support for .blend files
+- Add support for .psd files
+- Add
+- Allow users to choose between file types to add to obsidian vault vs simple links
+- Allow users to choose their own thumbnail if they don't like the default ones provided by the files
+- Allow custom scale for viewing different file types .blend .clip .pdf .psd so forth
 
-## First time developing plugins?
+## First time Installing?
 
 Quick starting guide for new plugin devs:
 
