@@ -24,7 +24,7 @@ Couple of bugs I need to squash and features to fix:
 
 Limitations to be aware of:
 
-- Clipstudio paint depriciated certain paths used to store thumbnails, if you have a celcys folder in your Documents, this plugin might not work for your older version of CSP. Versions 1.5 and above: https://www.reddit.com/r/ClipStudio/comments/v743p5/no_celsys_folder_in_documents/
+- Clipstudio paint depriciated certain paths used to store thumbnails, if you have a Celsys folder in your Documents, this plugin might not work for your older version of CSP. Versions 1.5 and above: https://www.reddit.com/r/ClipStudio/comments/v743p5/no_celsys_folder_in_documents/
 
 ## Native Obsidian Behavior
 
