@@ -28,7 +28,7 @@ Limitations to be aware of:
 
 ## Canvas Thumbnails Behavior
 
-![]([https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/CT.gif])
+![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/master/CT.gif)
 
 ## Native Obsidian Behavior
 
