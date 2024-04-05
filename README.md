@@ -4,13 +4,13 @@ Like what I do? Check out my other creative endeavors here: https://abyssalsoda.
 
 This project uses Typescript and depends on the latest plugin API (obsidian.d.ts) in Typescript Definition format, which contains TSDoc comments describing what it does.
 
-**Note:** Plugin is in early development, currently only .clip files are supported and customization is limited.
+**Note:** Plugin is in early development, currently only .clip files are supported and customization is limited. Let me know if there are other formats you wish to see support.
 
 This plugin aims to:
 - Add support for .blend files
 - Add support for .psd files
 - Allow users to choose between file types to add to obsidian vault vs simple links
-- Allow users to choose their own thumbnail if they don't like the default ones provided by the native files
+- Allow users to customize their own thumbnail if they don't like the default ones provided by the native files
 - Allow custom scale for viewing different file types .blend .clip .pdf .psd so forth
 
 ## Known Issues & Limitations
@@ -23,19 +23,16 @@ Couple of bugs I need to squash and features to fix:
 
 Limitations to be aware of:
 
-- Clipstudio paint depriciated certain paths used to store thumbnails, if you have a Celsys folder in your Documents, this plugin might not work for your older version of CSP. Versions 1.5 and above: https://www.reddit.com/r/ClipStudio/comments/v743p5/no_celsys_folder_in_documents/
+- Requires you to have Clip Studio Paint thumbnails enabled, you can access this when opening CSP and going to "help" at the top of your toolbar, then clicking "file associations". This should prompt you with a native CSP executible to embed .clip files with thumbnails.
+- Clip Studio Paint depriciated certain paths used to store thumbnails, if you have a Celsys folder in your Documents, this plugin might not work for your older version of CSP. Versions 1.5 and above: https://www.reddit.com/r/ClipStudio/comments/v743p5/no_celsys_folder_in_documents/
 
 ## Canvas Thumbnails Behavior
 
-![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/6a1d3623356bdf432b798c1151a1e860d42c0782/2024-04-0500-13-59-ezgif.com-video-to-gif-converter.gif)
+![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/CT.gif)
 
 ## Native Obsidian Behavior
 
-- Update your `manifest.json` with your new version number, such as `1.0.1`, and the minimum Obsidian version required for your latest release.
-- Update your `versions.json` file with `"new-plugin-version": "minimum-obsidian-version"` so older versions of Obsidian can download an older version of your plugin that's compatible.
-- Create new GitHub release using your new version number as the "Tag version". Use the exact version number, don't include a prefix `v`. See here for an example: https://github.com/obsidianmd/obsidian-sample-plugin/releases
-- Upload the files `manifest.json`, `main.js`, `styles.css` as binary attachments. Note: The manifest.json file must be in two places, first the root path of your repository and also in the release.
-- Publish the release.
+![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/master/NCT.gif)
 
 > You can simplify the version bump process by running `npm version patch`, `npm version minor` or `npm version major` after updating `minAppVersion` manually in `manifest.json`.
 > The command will bump version in `manifest.json` and `package.json`, and add the entry for the new version to `versions.json`
@@ -43,10 +40,9 @@ Limitations to be aware of:
 
 ## How to use
 
-- Clone this repo.
-- Make sure your NodeJS is at least v16 (`node --version`).
-- `npm i` or `yarn` to install dependencies.
-- `npm run dev` to start compilation in watch mode.
+- Download plugin from the latest releases tab
+- Activate in Obsidian Settings
+- Drag and Drop file of choice
 
 ## Important Notes & Limitations
 
