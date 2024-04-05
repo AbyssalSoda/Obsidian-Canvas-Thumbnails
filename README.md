@@ -17,6 +17,8 @@ Couple of bugs I need to squash and features to fix:
 
 Limitations to be aware of:
 
+- Has thus far only been tested on Windows but should have compatibility for andriod devices for .clip files
+
 - Requires you to have Clip Studio Paint thumbnails enabled, you can access this when opening CSP and going to "help" at the top of your toolbar, then clicking "file associations". This should prompt you with a native CSP executible to embed .clip files with thumbnails.
 
 -  Clip Studio Paint depriciated certain paths used to store thumbnails, if you have a Celsys folder in your Documents, this plugin might not work for your older version of CSP. Versions 1.5 and above: https://www.reddit.com/r/ClipStudio/comments/v743p5/no_celsys_folder_in_documents/
