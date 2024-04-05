@@ -14,13 +14,17 @@ This plugin aims to:
 - Allow users to choose their own thumbnail if they don't like the default ones provided by the native files
 - Allow custom scale for viewing different file types .blend .clip .pdf .psd so forth
 
-## Known Issues
+## Known Issues & Limitations
 
 Couple of bugs I need to squash and features to fix:
 
 - Zooming out causes thumbnails to disappear
 - Thumbnails can occasionally not be recognized
 - Deleting files in canvas does not delete them from your obsidian vault
+
+Limitations to be aware of:
+
+- Clipstudio paint depriciated certain paths used to store thumbnails, if you have a celcys folder in your Documents, this plugin might not work for your older version of CSP. Versions 1.5 and above: https://www.reddit.com/r/ClipStudio/comments/v743p5/no_celsys_folder_in_documents/
 
 ## Native Obsidian Behavior
 
