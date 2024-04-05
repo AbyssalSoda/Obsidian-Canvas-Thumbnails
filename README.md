@@ -18,7 +18,7 @@ This plugin aims to:
 
 Couple of bugs I need to squash and features to fix:
 
-- Zooming out causes thumbnails to disappear
+- Zooming out causes thumbnails to disappear (Native Canvas behavior set to change)
 - Thumbnails can occasionally not be recognized
 - Deleting files in canvas does not delete them from your obsidian vault
 
