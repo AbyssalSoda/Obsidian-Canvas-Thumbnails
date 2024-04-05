@@ -1,4 +1,4 @@
-# Obsidian Canvas File Thumbnails (In Development)
+# Obsidian Canvas Thumbnails (In Development)
 
 Like what I do? Check out my other creative endeavors here: https://abyssalsoda.carrd.co/
 
