@@ -2,8 +2,7 @@
 
 Like what I do? Check out my other creative endeavors here: https://abyssalsoda.carrd.co/
 
-This project uses Typescript to provide type checking and documentation.
-The repo depends on the latest plugin API (obsidian.d.ts) in Typescript Definition format, which contains TSDoc comments describing what it does.
+This project uses Typescript and depends on the latest plugin API (obsidian.d.ts) in Typescript Definition format, which contains TSDoc comments describing what it does.
 
 **Note:** Plugin is in early development, currently only .clip files are supported and customization is limited.
 
@@ -26,6 +25,10 @@ Limitations to be aware of:
 
 - Clipstudio paint depriciated certain paths used to store thumbnails, if you have a Celsys folder in your Documents, this plugin might not work for your older version of CSP. Versions 1.5 and above: https://www.reddit.com/r/ClipStudio/comments/v743p5/no_celsys_folder_in_documents/
 
+## Canvas Thumbnails Behavior
+
+![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/6a1d3623356bdf432b798c1151a1e860d42c0782/2024-04-0500-13-59-ezgif.com-video-to-gif-converter.gif)
+
 ## Native Obsidian Behavior
 
 - Update your `manifest.json` with your new version number, such as `1.0.1`, and the minimum Obsidian version required for your latest release.
@@ -37,12 +40,6 @@ Limitations to be aware of:
 > You can simplify the version bump process by running `npm version patch`, `npm version minor` or `npm version major` after updating `minAppVersion` manually in `manifest.json`.
 > The command will bump version in `manifest.json` and `package.json`, and add the entry for the new version to `versions.json`
 
-## Canvas Thumbnails Behavior
-
-- Check https://github.com/obsidianmd/obsidian-releases/blob/master/plugin-review.md
-- Publish an initial version.
-- Make sure you have a `README.md` file in the root of your repo.
-- Make a pull request at https://github.com/obsidianmd/obsidian-releases to add your plugin.
 
 ## How to use
 
