@@ -40,9 +40,9 @@ Limitations to be aware of:
 
 ![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/master/NCT.gif)
 
-- Empty file
-- No delete
-- Sad
+- No thumbnail
+- Bloated Files - Doesn't delete files in vault when deleting from canvas
+- Sad :(
 
 
 ## How to use
