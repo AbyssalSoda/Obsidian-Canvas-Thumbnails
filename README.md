@@ -27,6 +27,7 @@ Limitations to be aware of:
 
 **Current Functionality**
 - Easy drag and drop
+- Deletes files from vault when deleting in canvas (setting)
 
 **Planned Support:** 
 - Add support for .blend files
