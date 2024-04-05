@@ -2,16 +2,10 @@
 
 Like what I do? Check out my other creative endeavors here: https://abyssalsoda.carrd.co/
 
-This project uses Typescript and depends on the latest plugin API (obsidian.d.ts) in Typescript Definition format, which contains TSDoc comments describing what it does.
+This plugin aims to allow Obsidian Canvas users to easily visualize and keep track of their files for writing and art projects. This plugin uses Typescript and depends on the latest plugin API (obsidian.d.ts) in Typescript Definition format, which contains TSDoc comments describing what it does.
 
 **Note:** Plugin is in early development, currently only .clip files are supported and customization is limited. Let me know if there are other formats you wish to see support.
 
-This plugin aims to:
-- Add support for .blend files
-- Add support for .psd files
-- Allow users to choose between file types to add to obsidian vault vs simple links
-- Allow users to customize their own thumbnail if they don't like the default ones provided by the native files
-- Allow custom scale for viewing different file types .blend .clip .pdf .psd so forth
 
 ## Known Issues & Limitations
 
@@ -29,6 +23,16 @@ Limitations to be aware of:
 ## Canvas Thumbnails Behavior
 
 ![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/master/CT.gif)
+
+- Easy drag and drop
+
+**Planned Support:** 
+- Add support for .blend files
+- Add support for .psd files
+- Allow users to choose between file types to add to obsidian vault vs simple links
+- Allow users to customize their own thumbnail if they don't like the default ones provided by the native files
+- Allow custom scale for viewing different file types .blend .clip .pdf .psd so forth
+
 
 ## Native Obsidian Behavior
 
