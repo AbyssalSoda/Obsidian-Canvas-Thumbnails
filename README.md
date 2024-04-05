@@ -24,6 +24,7 @@ Limitations to be aware of:
 
 ![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/master/CT.gif)
 
+**Current Functionality**
 - Easy drag and drop
 
 **Planned Support:** 
