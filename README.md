@@ -32,6 +32,7 @@ Limitations to be aware of:
 **Planned Support:** 
 - Add support for .blend files
 - Add support for .psd files
+- Automatically resize node to fit thumbnail
 - Allow users to choose between file types to add to obsidian vault vs simple links
 - Allow users to customize their own thumbnail if they don't like the default ones provided by the native files
 - Allow custom scale for viewing different file types .blend .clip .pdf .psd so forth
