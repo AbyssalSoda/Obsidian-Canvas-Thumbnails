@@ -18,7 +18,8 @@ Couple of bugs I need to squash and features to fix:
 Limitations to be aware of:
 
 - Requires you to have Clip Studio Paint thumbnails enabled, you can access this when opening CSP and going to "help" at the top of your toolbar, then clicking "file associations". This should prompt you with a native CSP executible to embed .clip files with thumbnails.
-- Clip Studio Paint depriciated certain paths used to store thumbnails, if you have a Celsys folder in your Documents, this plugin might not work for your older version of CSP. Versions 1.5 and above: https://www.reddit.com/r/ClipStudio/comments/v743p5/no_celsys_folder_in_documents/
+
+-  Clip Studio Paint depriciated certain paths used to store thumbnails, if you have a Celsys folder in your Documents, this plugin might not work for your older version of CSP. Versions 1.5 and above: https://www.reddit.com/r/ClipStudio/comments/v743p5/no_celsys_folder_in_documents/
 
 ## Canvas Thumbnails Behavior
 
@@ -39,8 +40,9 @@ Limitations to be aware of:
 
 ![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/master/NCT.gif)
 
-> You can simplify the version bump process by running `npm version patch`, `npm version minor` or `npm version major` after updating `minAppVersion` manually in `manifest.json`.
-> The command will bump version in `manifest.json` and `package.json`, and add the entry for the new version to `versions.json`
+- Empty file
+- No delete
+- Sad
 
 
 ## How to use
