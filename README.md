@@ -1,6 +1,6 @@
 # Obsidian Canvas Thumbnails (In Development)
 
-**Consider Supporting** Like what I do? Check out my other creative endeavors here: https://abyssalsoda.carrd.co/
+**Like what I do?** Check out my other creative endeavors here: https://abyssalsoda.carrd.co/
 
 This plugin aims to allow Obsidian Canvas users to easily visualize and keep track of their files for writing and art projects. 
 
