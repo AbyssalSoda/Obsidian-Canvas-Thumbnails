@@ -55,6 +55,6 @@ Couple of bugs I need to squash and features to fix:
 
 - Requires you to have Clip Studio Paint thumbnails enabled, you can access this when opening CSP and going to "help" at the top of your toolbar, then clicking "file associations". This should prompt you with a native CSP executible to embed .clip files with thumbnails.
 
--  Clip Studio Paint [depriciated certain paths](https://www.reddit.com/r/ClipStudio/comments/v743p5/no_celsys_folder_in_documents/) used to store thumbnails, if you have a Celsys folder in your Documents, this plugin might not work for your older version of CSP. Versions 1.5 and above: https://www.reddit.com/r/ClipStudio/comments/v743p5/no_celsys_folder_in_documents/
+-  Clip Studio Paint [depriciated certain paths](https://www.reddit.com/r/ClipStudio/comments/v743p5/no_celsys_folder_in_documents/) used to store thumbnails, if you have a Celsys folder in your Documents, this plugin might not work for your older version of CSP. Versions 1.5 and above.
   
 - Unfortunately Obsidian does not provide a public API for plugins to access canvas object forcing the use of DOM listeners to achieve the goal - this can be potentially taxing if you have an obsurdly large number of files.
