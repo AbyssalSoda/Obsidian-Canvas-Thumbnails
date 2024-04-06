@@ -2,7 +2,7 @@
 
 Like what I do? Check out my other creative endeavors here: https://abyssalsoda.carrd.co/
 
-This plugin aims to allow Obsidian Canvas users to easily visualize and keep track of their files for writing and art projects. This plugin uses Typescript and depends on the latest plugin API (obsidian.d.ts) in Typescript Definition format, which contains TSDoc comments describing what it does.
+This plugin aims to allow Obsidian Canvas users to easily visualize and keep track of their files for writing and art projects. 
 
 **Note:** Plugin is in early development, currently only .clip files are supported and customization is limited. Let me know if there are other formats you wish to see support.
 
@@ -15,7 +15,7 @@ Couple of bugs I need to squash and features to fix:
 - Thumbnails can occasionally not be recognized
 - Deleting files in canvas does not delete them from your obsidian vault
 
-Limitations to be aware of:
+**Limitations**
 
 - Has thus far only been tested on Windows but should have compatibility for andriod devices for .clip files
 
@@ -57,6 +57,7 @@ Limitations to be aware of:
 
 ## Important Notes & Limitations
 
+- Unfortunately Obsidian does not provide a public API for plugins to access canvas object forcing the use of DOM listeners to achieve the goal - this can be potentially taxing if you have an obsurdly large number of files.
 - If a file lacks a native thumbnail no thumbnail will display in Obsidian Canvas, you must first open the project in Clip Studio or Blender in order to generate the thumbnail if your cache had been cleared or temp file since expired
 
 ## Improve code quality with eslint (optional)
