@@ -14,7 +14,7 @@ This plugin aims to allow Obsidian Canvas users to easily visualize and keep tra
 - Easy drag and drop
 - Deletes files from vault when deleting in canvas (setting)
 
-  **Planned Support:** 
+**Planned Support:** 
 - Add support for .blend files
 - Add support for .psd files
 - Automatically resize node to fit thumbnail
