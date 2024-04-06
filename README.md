@@ -6,15 +6,6 @@ This plugin aims to allow Obsidian Canvas users to easily visualize and keep tra
 
 **Note:** Plugin is in early development, currently only .clip files are supported and customization is limited. Let me know if there are other formats you wish to see support.
 
-
-## Canvas Thumbnails Behavior
-
-![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/master/CT.gif)
-
-**Current Functionality**
-- Easy drag and drop
-- Deletes files from vault when deleting in canvas (setting)
-
 **Planned Support:** 
 - Add support for .blend files
 - Add support for .psd files
@@ -24,10 +15,19 @@ This plugin aims to allow Obsidian Canvas users to easily visualize and keep tra
 - Allow custom scale for viewing different file types .blend .clip .pdf .psd so forth
 
 
+## Canvas Thumbnails Behavior
+
+![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/master/CT.gif)
+
+**Current Functionality**
+- Easy drag and drop
+- Deletes files from vault when deleting in canvas (setting)
+
 ## Native Obsidian Behavior
 
 ![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/master/NCT.gif)
 
+**Current Functionality**
 - No thumbnail
 - Bloated Files - Doesn't delete files in vault when deleting from canvas
 - Sad :(
