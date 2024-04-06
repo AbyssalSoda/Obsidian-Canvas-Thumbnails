@@ -7,22 +7,6 @@ This plugin aims to allow Obsidian Canvas users to easily visualize and keep tra
 **Note:** Plugin is in early development, currently only .clip files are supported and customization is limited. Let me know if there are other formats you wish to see support.
 
 
-## Known Issues & Limitations
-
-Couple of bugs I need to squash and features to fix:
-
-- Zooming out causes thumbnails to disappear (Native Canvas behavior set to change)
-- Thumbnails can occasionally not be recognized
-- Deleting files in canvas does not delete them from your obsidian vault
-
-**Limitations**
-
-- Has thus far only been tested on Windows but should have compatibility for andriod devices for .clip files
-
-- Requires you to have Clip Studio Paint thumbnails enabled, you can access this when opening CSP and going to "help" at the top of your toolbar, then clicking "file associations". This should prompt you with a native CSP executible to embed .clip files with thumbnails.
-
--  Clip Studio Paint depriciated certain paths used to store thumbnails, if you have a Celsys folder in your Documents, this plugin might not work for your older version of CSP. Versions 1.5 and above: https://www.reddit.com/r/ClipStudio/comments/v743p5/no_celsys_folder_in_documents/
-
 ## Canvas Thumbnails Behavior
 
 ![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/master/CT.gif)
@@ -55,10 +39,24 @@ Couple of bugs I need to squash and features to fix:
 - Activate in Obsidian Settings
 - Drag and Drop file of choice
 
-## Important Notes & Limitations
 
+## Known Issues & Limitations
+
+Couple of bugs I need to squash and features to fix:
+
+- Zooming out causes thumbnails to disappear (Native Canvas behavior set to change)
+  
+- Deleting files in canvas does not delete them from your obsidian vault
+
+**Limitations**
+
+- Has thus far only been tested on Windows but should have compatibility for andriod devices for .clip files
+
+- Requires you to have Clip Studio Paint thumbnails enabled, you can access this when opening CSP and going to "help" at the top of your toolbar, then clicking "file associations". This should prompt you with a native CSP executible to embed .clip files with thumbnails.
+
+-  Clip Studio Paint depriciated certain paths used to store thumbnails, if you have a Celsys folder in your Documents, this plugin might not work for your older version of CSP. Versions 1.5 and above: https://www.reddit.com/r/ClipStudio/comments/v743p5/no_celsys_folder_in_documents/
+  
 - Unfortunately Obsidian does not provide a public API for plugins to access canvas object forcing the use of DOM listeners to achieve the goal - this can be potentially taxing if you have an obsurdly large number of files.
-- If a file lacks a native thumbnail no thumbnail will display in Obsidian Canvas, you must first open the project in Clip Studio or Blender in order to generate the thumbnail if your cache had been cleared or temp file since expired
 
 ## Improve code quality with eslint (optional)
 - [ESLint](https://eslint.org/) is a tool that analyzes your code to quickly find problems. You can run ESLint against your plugin to find common bugs and ways to improve your code. 
