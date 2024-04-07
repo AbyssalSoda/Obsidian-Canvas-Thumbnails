@@ -10,9 +10,8 @@ This plugin aims to allow Obsidian Canvas users to easily visualize and keep tra
 
 Current Method:
 - Install it using [BRAT](https://github.com/TfTHacker/obsidian42-brat) Go to the Community Plugins tab in the settings and search for "BRAT" & copy-paste the repository link for Canvas Thumbnails.
-  
-  Pending Approval:
-  
+
+Pending Approval:
 - Community Plugins tab in the settings and search for "Canvas Thumbnails" (Currently unavailable) 
 
 
