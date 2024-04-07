@@ -21,7 +21,7 @@ Pending Approval:
 
 **Current Functionality**
 - Easy drag and drop
-- Deletes files from vault when deleting in canvas (setting)
+- Deletes files from vault when deleting in canvas
 
 **Planned Support:** 
 - Add support for .blend files
