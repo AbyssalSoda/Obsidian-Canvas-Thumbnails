@@ -1,4 +1,4 @@
-# Canvas Thumbnails (In Development)
+# Canvas Thumbnails (Early Development)
 
 **Like what I do?** Check out my other creative endeavors here: https://abyssalsoda.carrd.co/
 
