@@ -1,4 +1,4 @@
-# Obsidian Canvas Thumbnails (In Development)
+# Canvas Thumbnails (Early Development)
 
 **Like what I do?** Check out my other creative endeavors here: https://abyssalsoda.carrd.co/
 
@@ -6,13 +6,23 @@ This plugin aims to allow Obsidian Canvas users to easily visualize and keep tra
 
 **Note:** Plugin is in early development, currently only .clip files are supported and customization is limited. Let me know if there are other formats you wish to see support.
 
+## Installation
+
+**Current Method:**
+- Install it using [BRAT](https://github.com/TfTHacker/obsidian42-brat)
+  > Go to the Community Plugins tab in the settings and search for "BRAT" & copy-paste the repository link for Canvas Thumbnails.
+
+**Pending Approval:**
+- Community Plugins tab in the settings and search for "Canvas Thumbnails" (Currently unavailable)
+
+
 ## Canvas Thumbnails Behavior
 
 ![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/master/CT.gif)
 
 **Current Functionality**
 - Easy drag and drop
-- Deletes files from vault when deleting in canvas (setting)
+- Deletes files from vault when deleting in canvas
 
 **Planned Support:** 
 - Add support for .blend files
@@ -23,6 +33,9 @@ This plugin aims to allow Obsidian Canvas users to easily visualize and keep tra
 - Allow users to customize their own thumbnail if they don't like the default ones provided by the native files
 - Allow custom scale for viewing different file types .blend .clip .pdf .psd so forth
 
+**Pondering Support:** 
+- Integration for Advanced Canvas Node Shapes
+- Native Custom Node Shapes
 
 ## Native Obsidian Behavior
 
@@ -36,9 +49,9 @@ This plugin aims to allow Obsidian Canvas users to easily visualize and keep tra
 
 ## How to use
 
-- Download plugin from the latest releases tab
-- Activate in Obsidian Settings
-- Drag and Drop file of choice
+- Follow Installation Steps
+- Activate in Obsidian Settings if not activated automatically by BRAT
+- Drag and Drop file of choice =)
 
 
 ## Known Issues & Limitations
