@@ -17,8 +17,7 @@ This plugin aims to allow Obsidian Canvas users to easily visualize and keep tra
 
 
 ## Canvas Thumbnails Behavior
-
-![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/master/CT.gif)
+![](https://github.com/AbyssalSoda/Obsidian-Canvas-Thumbnails/blob/master/assets/CT.gif)
 
 **Current Functionality**
 - Easy drag and drop
@@ -39,7 +38,7 @@ This plugin aims to allow Obsidian Canvas users to easily visualize and keep tra
 
 ## Native Obsidian Behavior
 
-![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/master/NCT.gif)
+![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/master/assets/NCT.gif)
 
 **Current Functionality**
 - No thumbnail
@@ -51,7 +50,7 @@ This plugin aims to allow Obsidian Canvas users to easily visualize and keep tra
 
 - Follow Installation Steps
 - Activate in Obsidian Settings if not activated automatically by BRAT
-- Drag and Drop file of choice =)
+- Drag and Drop supported file of choice =)
 
 
 ## Known Issues & Limitations
