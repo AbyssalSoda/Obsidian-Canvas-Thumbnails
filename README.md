@@ -50,7 +50,7 @@ This plugin aims to allow Obsidian Canvas users to easily visualize and keep tra
 
 - Follow Installation Steps
 - Activate in Obsidian Settings if not activated automatically by BRAT
-- Drag and Drop file of choice =)
+- Drag and Drop supported file of choice =)
 
 
 ## Known Issues & Limitations
