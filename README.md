@@ -49,7 +49,7 @@ Pending Approval:
 ## How to use
 
 - Follow Installation Steps
-- Activate in Obsidian Settings
+- Activate in Obsidian Settings if not activated automatically by BRAT
 - Drag and Drop file of choice =)
 
 
