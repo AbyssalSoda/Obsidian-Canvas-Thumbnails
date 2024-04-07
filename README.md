@@ -32,6 +32,9 @@ Pending Approval:
 - Allow users to customize their own thumbnail if they don't like the default ones provided by the native files
 - Allow custom scale for viewing different file types .blend .clip .pdf .psd so forth
 
+**Pondering Support:** 
+- Integration for Advanced Canvas Node Shapes
+- Native Custom Node Shapes
 
 ## Native Obsidian Behavior
 
