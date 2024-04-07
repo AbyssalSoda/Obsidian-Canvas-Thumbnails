@@ -48,9 +48,9 @@ Pending Approval:
 
 ## How to use
 
-- Download plugin from the latest releases tab
+- Follow Installation Steps
 - Activate in Obsidian Settings
-- Drag and Drop file of choice
+- Drag and Drop file of choice =)
 
 
 ## Known Issues & Limitations
