@@ -13,7 +13,8 @@ Current Method:
   > Go to the Community Plugins tab in the settings and search for "BRAT" & copy-paste the repository link for Canvas Thumbnails.
 
 Pending Approval:
-- Community Plugins tab in the settings and search for "Canvas Thumbnails" (Currently unavailable) 
+- Community Plugins tab in the settings and search for "Canvas Thumbnails"
+  > (Currently unavailable) 
 
 
 ## Canvas Thumbnails Behavior
