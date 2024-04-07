@@ -21,3 +21,10 @@ data.json
 
 # Exclude macOS Finder (System Explorer) View States
 .DS_Store
+assets/hsFileFBX.png
+assets/hsFileMayaMA.png
+assets/hsFileMayaMB.png
+assets/hsFileMayaMEL.png
+assets/hsMaya.png
+assets/mayaico.png
+assets/mayaPlaceholder.png
