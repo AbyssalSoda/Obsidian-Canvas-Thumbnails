@@ -6,6 +6,21 @@ This plugin aims to allow Obsidian Canvas users to easily visualize and keep tra
 
 **Note:** Plugin is in early development, currently only .clip files are supported and customization is limited. Let me know if there are other formats you wish to see support.
 
+## Installation
+
+Current Method:
+- Install it using [BRAT](https://github.com/TfTHacker/obsidian42-brat) Go to the Community Plugins tab in the settings and search for "BRAT" & copy-paste the repository link for Canvas Thumbnails.
+
+OR
+- Create a folder named `advanced-canvas` in your vault's plugins folder (`<vault>/.obsidian/plugins/`).
+- Download `main.js`, `styles.css` and `manifest.json` from the latest release and put them in the `advanced-canvas` folder.
+- Enable the plugin in Settings -> Community plugins -> Installed plugins
+
+  Pending Approval:
+  
+- Community Plugins tab in the settings and search for "Canvas Thumbnails" (Currently unavailable) 
+
+
 ## Canvas Thumbnails Behavior
 
 ![](https://github.com/AbyssalSoda/Canvas-File-Thumbnails/blob/master/CT.gif)
