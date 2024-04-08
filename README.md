@@ -25,8 +25,9 @@ This plugin aims to allow Obsidian Canvas users to easily visualize and keep tra
 
 **Planned Support:** 
 - Add support for .blend files
-- Add support for .psd files
+- Add support for .psd .ae .ai .spp files
 - Add support for .obj .fbx .stl files
+- Add default thumbnails for files when previews are not available 
 - Automatically resize node to fit thumbnail
 - Allow users to choose between file types to add to obsidian vault vs simple links
 - Allow users to customize their own thumbnail if they don't like the default ones provided by the native files
