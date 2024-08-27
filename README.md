@@ -1,8 +1,36 @@
-# Canvas Thumbnails (Early Development)
+<h1 align="center">
+Obsidian Canvas Thumbnails
+</h1>
+
+<p align="center">
+Elevate your Obsidian experience with customizable thumbnails for Canvas files, allowing for easier visualization and organization of writing and art projects.
+</p>
+
+<p align="center">
+ <a href="https://github.com/AbyssalSoda/Obsidian-Canvas-Thumbnails/releases"><img height="30px" src="https://img.shields.io/github/downloads/AbyssalSoda/Obsidian-Canvas-Thumbnails/total?color=brightgreen" alt="Downloads"></a>
+ <a href="https://github.com/AbyssalSoda/Obsidian-Canvas-Thumbnails/releases"><img height="30px" src="https://img.shields.io/github/v/release/AbyssalSoda/Obsidian-Canvas-Thumbnails?include_prereleases&color=brightgreen" alt="Current Release"></a>
+ <a href="https://github.com/AbyssalSoda/Obsidian-Canvas-Thumbnails/issues"><img height="30px" src="https://img.shields.io/github/issues/AbyssalSoda/Obsidian-Canvas-Thumbnails?color=brightgreen" alt="Issues Badge"></a>
+</p>
+
+<p align="center">
+  <a href="#installation">Installation</a> •
+  <a href="#functionality">Functionality</a> •
+  <a href="#support">Support</a> •
+  <a href="#faq">FAQ</a> •
+  <a href="#links">Links</a>
+</p>
+
+<p align="center">
+ <a href='https://ko-fi.com/I2I1TR6PC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
+
+---
+
+
 
 **Like what I do?** Check out my other creative endeavors here: https://abyssalsoda.carrd.co/
 
-This plugin aims to allow Obsidian Canvas users to easily visualize and keep track of their files for writing and art projects. 
+
 
 **Note:** Plugin is in early development, currently only .clip files are supported and customization is limited. Let me know if there are other formats you wish to see support.
 
